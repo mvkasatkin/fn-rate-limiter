@@ -1,6 +1,6 @@
 {
   "name": "fn-rate-limiter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Function call rate limiter",
   "repository": "github:mvkasatkin/fn-rate-limiter",
   "source": "src/index.ts",
